@@ -11,7 +11,7 @@ MEAL_TYPE = (
 
 STATUS = (
     (0, "Unavailable"),
-    (0, "Available")
+    (1, "Available")
 )
 
 
